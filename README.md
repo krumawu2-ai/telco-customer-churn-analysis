@@ -34,13 +34,18 @@ Target variable:
 - Higher **monthly charges** are associated with increased churn
 - Longer-term contracts (1-year, 2-year) improve retention
 - Services like **tech support and online security** reduce churn risk
+### Key Visualization
+
+![Monthly Charges vs Churn](images/monthly_charges_churn.png)
 
 ---
 
 ## Models Used
 - Logistic Regression
 - Random Forest (with hyperparameter tuning)
+### ROC Curve
 
+![ROC Curve](images/roc_curve.png)
 ---
 
 ## Model Performance
