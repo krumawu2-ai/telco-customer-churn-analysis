@@ -66,6 +66,8 @@ The model prioritizes identifying customers at risk of churn, making it suitable
 ---
 
 ## Project Structure
+
+```
 telco-customer-churn-analysis/
 │
 ├── data/
@@ -73,3 +75,4 @@ telco-customer-churn-analysis/
 │
 ├── telco_customer_churn_analysis.ipynb
 ├── README.md
+```
